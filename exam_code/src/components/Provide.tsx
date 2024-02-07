@@ -4,22 +4,6 @@ import Image from 'next/Image'
 
 const Provide = () => {
   return (
-    // <div className='justify-center py-24 max-sm:justify-none'>
-    //     <div className="flex flex-row mx-auto max-sm:mx-0 px-32 justify-center">
-    //         <div className='me-96'>
-    //             <h1 className='text-4xl max-lg:text-3xl max-md:text-2xl max-sm:text-base font-riot font-bold'>What We Provide</h1><hr className='h-[8px] bg-orange-300 w-[290px] mt-[-15px]'/>
-    //             <p className=' w-[400px] max-sm:w-[360px] pt-3 font-riot font-medium'>Praesent placerated egestas egestas cras rhone magna rutrum tellus laoreet</p>
-    //         </div>
-    //         <div className=" justify-center mt-10 ms-96">
-    //         <a href="/" className=' text-orange-600 font-riot font-bold'>See More</a>
-    //         </div>
-    //     </div>
-    //     <div className='flex flex-wrap'>
-    //         <div className="flex flex-row me-10 text-center justify-center">
-    //         
-    //         </div>
-    //     </div>
-    // </div>
     <div>
         <div className='text-start pt-24'>
             <div className='m-32 inline '>
