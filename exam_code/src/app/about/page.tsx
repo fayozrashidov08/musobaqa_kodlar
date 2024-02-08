@@ -3,7 +3,7 @@ import UserExpirence from '@/components/Users'
 import Form from '@/components/Form'
 import Ideas from '@/components/Ideas'
 import Footer from '@/components/Footer'
-import Banner_abt from '@/components/Banner_abt'
+import Banner_abt from '@/components/Banners/Banner_abt'
 
 const Services = () => {
   return (
