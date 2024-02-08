@@ -1,5 +1,5 @@
 import Navbar from '@/components/Navbar'
-import UserExpirence from '@/components/UserExpirence'
+import UserExpirence from '@/components/Users'
 import Form from '@/components/Form'
 import Ideas from '@/components/Ideas'
 import Footer from '@/components/Footer'

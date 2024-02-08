@@ -8,9 +8,7 @@ const Banner = () => {
         We Build <span className='bg-orange-200 ps-3 pe-1'>Digital</span> Product <br /> For Your Success
         </h1>
         <h2 className="text-2xl lg:text-lg md:text-base sm:text-sm font-4 font-semibold lh-6 ld-04 pb-11 text-gray-700 text-center max-sm:text-hidden">
-          nine4 is a free to use template website for websites made
-          <br />
-          with Next.js and styled with Tailwind CSS
+          nine4 is a free to use template website for websites made <br /> with Next.js and styled with Tailwind CSS
         </h2>
         <div className="ml-6 max-sm:ml-0 text-center">
           <a

@@ -13,7 +13,7 @@ const Navbar = () => {
   const [state, setState] = useState(false);
 
   const navigation = [
-    // { title: 'Testimonials', path: '#testimonials' },
+
     { title: 'Homepage', path: '/' },
   ];
 
@@ -21,7 +21,7 @@ const Navbar = () => {
   const searchParams = useSearchParams();
 
   useEffect(() => {
-    // Add closing the navbar menu when navigating
+
     const handleState = () => {
       document.body.classList.remove('overflow-hidden');
       setState(false);
