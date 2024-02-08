@@ -6,7 +6,7 @@ const Ideas = () => {
   return (
     <div className='flex flex-col max-sm:flex-auto'>
         <div className="columns-2 mx-auto max-sm:columns-1 max-sm:mx-0">
-            <div className=''>
+            <div className='mr-[160px]'>
                 <Image src="/expirence.png" alt="user" width={480} height={500} className='ps-24 max-sm:ps-0'></Image>
             </div>
             <div className='ms-32 max-sm:ms-5 pt-24'>
